@@ -21,7 +21,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SAP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png">
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="avatar.jpeg" height="150" style="border-radius:50px;" src="https://github.com/Paucinha/assets/blob/master/avatar.jpeg?raw=true">
+  <img align="right" alt="avatar.jpeg" height="150" style="border-radius:50px;" src="https://github.com/Paucinha/assets/blob/master/avatar2.jpg?raw=true">
 </div>
   
   ##
