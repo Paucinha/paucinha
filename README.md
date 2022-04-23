@@ -1,4 +1,4 @@
-### Hi! I´m Paucinha 👋  💻 Devolper | 👩‍🏫Pedagoga | Tecnologia
+### Hi! I´m Paucinha 👋  💻 Devolper | 👩‍🏫 Pedagoga
 
 ### About me
 
