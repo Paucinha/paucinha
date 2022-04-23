@@ -1,9 +1,21 @@
-### Olá! Eu sou Paucinha 👋  💻 Devolper | 👩‍🏫Pedagoga | Tecnologia
+### Hi! I´m Paucinha 👋  💻 Devolper | 👩‍🏫Pedagoga | Tecnologia
 
-- 🔭 Estou em transição de carreira para a área de Tecnologia
-- 🌱 Estudante de Gestão da Tecnologia da Informação
-- 👩‍ Pedagoga e Pós-Graduada em Psicopedagogia
-- 😄 Pronouns: ela/dela
+### About me
+
+- 🔭 I´m in a career transition to the Technology area.
+- 🌱 Information Technology Management Student and Apprentice of the AWS re/Start program.
+- 👩‍ Pedagoga e Pós-Graduada em Psicopedagogia.
+- 😄 Pronouns: she/her
+
+<div>
+  <a href="https://github.com/Paucinha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paucia-lisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paucialisboa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://web.telegram.org/z/#777000" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="mailto:paucia.renan@cs365.online" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
+  </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/paucinha">
@@ -21,21 +33,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SAP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png">
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="avatar.jpeg" height="150" style="border-radius:50px;" src="https://github.com/Paucinha/assets/blob/master/avatar2.jpg?raw=true">
 </div>
   
-  ##
+##
  
 <div>
-  <a href="https://discord.gg/Paucinha#7649" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Paucinha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/paucinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paucia-lisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/paucinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:paucialisboa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://web.telegram.org/z/#777000" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="mailto:paucia.renan@cs365.online" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
-  <a href="https://slack.com/intl/pt-br/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>  
   
   ![Snake animation](https://github.com/paucinha/paucinha/blob/output/github-contribution-grid-snake.svg) 
  
