@@ -1,9 +1,9 @@
-### Hi! I´m Paucinha 👋  💻 Devolper | 👩‍🏫 Pedagoga
+### Hi! I´m Paucinha 👋  💻 Devolper | 👩‍🏫 Psicopedagoga
 
 ### About me
 
 - 🔭 I´m in a career transition to the Technology area.
-- 🌱 Information Technology Management Student and Apprentice of the AWS re/Start program.
+- 🌱 Information Technology Management Student and Graduated of the AWS re/Start program.
 - 👩‍ Pedagoga e Pós-Graduada em Psicopedagogia.
 - 😄 Pronouns: she/her
 
