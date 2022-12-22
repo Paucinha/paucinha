@@ -2,11 +2,11 @@
 
 ### About me
 
-- 🔭 I´m in a career transition to the Technology area.
-- 🥇 AWS Certified Cloud Practitioner
-- 🌱 Information Technology Management Student and Graduated of the AWS re/Start program.
-- 👩‍ Pedagoga e Pós-Graduada em Psicopedagogia.
-- 😄 Pronouns: she/her
+🚀 I´m in a career transition to the Technology area.
+🏅 AWS Certified Cloud Practitioner
+🌱 Information Technology Management Student and Graduated of the AWS re/Start program.
+👩‍ Pedagoga e Pós-Graduada em Psicopedagogia.
+😄 Pronouns: she/her
 
 <div>
  <a href="https://www.linkedin.com/in/paucia-lisboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
