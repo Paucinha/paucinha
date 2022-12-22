@@ -6,7 +6,7 @@
 
 🏅 AWS Certified Cloud Practitioner
 
-🌱 Information Technology Management Student and Graduated of the AWS re/Start program.
+💻 Information Technology Management Student and Graduated of the AWS re/Start program.
 
 👩‍ Pedagoga e Pós-Graduada em Psicopedagogia.
 
