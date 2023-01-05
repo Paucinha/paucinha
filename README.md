@@ -21,8 +21,7 @@
   <a href="https://www.instagram.com/paucinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/paucinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <img align="right" alt="Paucinha-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/Paucinha/assets/master/avatar2.jpg">
-  
-  </div>
+</div>
 
 ##
 
