@@ -20,7 +20,7 @@
  <a href="mailto:paucia.renan@cs365.online" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/paucinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/paucinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <img align="right" alt="Paucinha-pic" height="150" style="border-radius:50px;" src="https://github.com/Paucinha/assets/blob/master/2384088-woman-working-at-home-working-on-laptop-cartoon-art-illustration-vetor.jpg?raw=true">
+ <img align="right" alt="Paucinha-pic" height="150" style="border-radius:50px;" src="https://github.com/Paucinha/assets/blob/master/e506e5939a10bf1e39d17ec01582cf61715eed18b47de80cab52d200a7bb9769.0.png?raw=true">
 </div>
 
 ##
