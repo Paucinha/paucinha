@@ -4,7 +4,7 @@
 
 🚀 I´m in a career transition to the Technology area.
 
-🏅 AWS Certified Cloud Practitioner
+🏅 Certificação: AWS Cloud Practitioner.
 
 💻 Information Technology Management Student.
 
