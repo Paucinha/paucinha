@@ -4,7 +4,7 @@
 
 🚀 I´m in a career transition to the Technology area.
 
-🏅 Certificação: AWS Cloud Practitioner.
+🏅 Certification: AWS Cloud Practitioner.
 
 💻 Information Technology Management Student.
 
@@ -12,7 +12,7 @@
 
 👩‍ Pedagoga e Pós-Graduada em Psicopedagogia.
 
-😄 Pronouns: she/her
+😄 Pronouns: she/her.
 
 <div>
  <a href="https://www.linkedin.com/in/paucia-lisboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
