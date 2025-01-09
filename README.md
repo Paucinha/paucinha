@@ -19,6 +19,7 @@
 ![paucia-lisboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=paucia-lisboa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ##
+
 <div> 
  <a href="https://www.linkedin.com/in/paucia-lisboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/paucinha" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
@@ -28,9 +29,9 @@
  <a href="https://www.instagram.com/paucinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/paucinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
-##
 
 ##
+
 <div>
  <div style="display: inline_block"><br>
  <img align="center" alt="aws" height="65" width="60" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png"/>
