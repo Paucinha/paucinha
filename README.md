@@ -30,14 +30,6 @@
  <img align="right" alt="Paucinha-pic" height="150" style="border-radius:50px;" src="https://github.com/Paucinha/assets/blob/master/e506e5939a10bf1e39d17ec01582cf61715eed18b47de80cab52d200a7bb9769.0.png?raw=true">
 </div>
 
-##
-
-<div align="center">
- <a href="https://github.com/paucinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paucinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucinha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
  <img align="center" alt="aws" height="65" width="60" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png"/>
  <img align="center" alt="debian" height="65" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
