@@ -32,7 +32,8 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div>
+ <div style="display: inline_block"><br>
  <img align="center" alt="aws" height="65" width="60" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png"/>
  <img align="center" alt="debian" height="65" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
  <img align="center" alt="linux" height="65" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
