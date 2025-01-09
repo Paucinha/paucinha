@@ -6,7 +6,7 @@
 
 🏅 Certification: AWS Cloud Practitioner.
 
-💻 Information Technology Management Student.
+💻 Information Technology Management.
 
 ☁️ Graduated of the AWS re/Start program
 
